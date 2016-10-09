@@ -11,7 +11,7 @@ import android.graphics.Paint;
 public class Ball {
     public float cx;
     public float cy;
-    public static float r =10;
+    public static float r =30.0f;
     private Color color;
 
     private long xVelocity = 0;
